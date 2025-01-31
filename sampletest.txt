@@ -1,1 +1,2 @@
 "KT on Git and GitHub software" 
+pull commit push commands have getting some knowledge
