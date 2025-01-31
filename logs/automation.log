@@ -1,0 +1,30 @@
+2025-01-30 12:36:34 INFO  TC001_AccountRegistrationTest:15 - **** Started TC001_AccountRegistrationTest ****
+2025-01-30 12:36:34 INFO  TC001_AccountRegistrationTest:18 - clicked on MyAccountlink 
+2025-01-30 12:36:34 INFO  TC001_AccountRegistrationTest:21 - clicked on Registration link
+2025-01-30 12:36:35 INFO  TC001_AccountRegistrationTest:26 - Providing customer details
+2025-01-30 12:36:37 INFO  TC001_AccountRegistrationTest:38 - Validating expected message
+2025-01-30 12:36:37 INFO  TC001_AccountRegistrationTest:53 - **** Finished the TC001_AccountRegistrationTest****
+2025-01-30 12:36:41 INFO  TC002_LoginTest:15 - **** Started TC002_LoginTest ****
+2025-01-30 12:36:42 INFO  TC002_LoginTest:22 - Entered the credential
+2025-01-30 12:36:44 INFO  TC002_LoginTest:28 - Verified the Account page
+2025-01-30 12:36:44 INFO  TC002_LoginTest:37 - *** Finished TC002_LoginTest ***
+2025-01-30 15:24:35 INFO  TC001_AccountRegistrationTest:15 - **** Started TC001_AccountRegistrationTest ****
+2025-01-30 15:24:35 INFO  TC001_AccountRegistrationTest:18 - clicked on MyAccountlink 
+2025-01-30 15:24:35 INFO  TC001_AccountRegistrationTest:21 - clicked on Registration link
+2025-01-30 15:24:36 INFO  TC001_AccountRegistrationTest:26 - Providing customer details
+2025-01-30 15:24:38 INFO  TC001_AccountRegistrationTest:38 - Validating expected message
+2025-01-30 15:24:38 INFO  TC001_AccountRegistrationTest:53 - **** Finished the TC001_AccountRegistrationTest****
+2025-01-30 15:24:42 INFO  TC002_LoginTest:15 - **** Started TC002_LoginTest ****
+2025-01-30 15:24:43 INFO  TC002_LoginTest:22 - Entered the credential
+2025-01-30 15:24:45 INFO  TC002_LoginTest:28 - Verified the Account page
+2025-01-30 15:24:45 INFO  TC002_LoginTest:37 - *** Finished TC002_LoginTest ***
+2025-01-30 15:38:40 INFO  TC001_AccountRegistrationTest:15 - **** Started TC001_AccountRegistrationTest ****
+2025-01-30 15:38:40 INFO  TC001_AccountRegistrationTest:18 - clicked on MyAccountlink 
+2025-01-30 15:38:41 INFO  TC001_AccountRegistrationTest:21 - clicked on Registration link
+2025-01-30 15:38:42 INFO  TC001_AccountRegistrationTest:26 - Providing customer details
+2025-01-30 15:38:43 INFO  TC001_AccountRegistrationTest:38 - Validating expected message
+2025-01-30 15:38:44 INFO  TC001_AccountRegistrationTest:53 - **** Finished the TC001_AccountRegistrationTest****
+2025-01-30 15:38:48 INFO  TC002_LoginTest:15 - **** Started TC002_LoginTest ****
+2025-01-30 15:38:49 INFO  TC002_LoginTest:22 - Entered the credential
+2025-01-30 15:38:50 INFO  TC002_LoginTest:28 - Verified the Account page
+2025-01-30 15:38:50 INFO  TC002_LoginTest:37 - *** Finished TC002_LoginTest ***
