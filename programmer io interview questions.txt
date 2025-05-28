@@ -1,0 +1,25 @@
+
+try{
+WebDriver driver = new ChromeDriver();
+//driver.manage().timeout().implicitWait(Duration.ofSeconds(10));
+driver.get("https://example.com/login");
+driver.findElement(By.id("username")).sendKeys("testUser");
+driver.findElement(By.id("password")).sendKeys("testPassword");
+
+WebDriverWait  mywait=new WebDriverWait(driver,Duration.ofSeconds(10));
+
+mywait.until(ExpectedConditions.visibilityOfElementLocated(By.id("loginButton")));
+driver.findElement(By.id("loginButton")).click();
+String pageTitle = driver.getTitle();
+
+TakeScreenshot ts=(driver)TakeScreenshot;
+File source=ts.getScreenshotAs(OutputType.file);
+File target=System.getProperty("user.dir"+\screenshots\text1.png);
+Assert.assertEquals(pageTitle, "Home Page");
+
+}
+catch(Exception e){
+	System.out.println("Exception raised"+e.getMessage);
+}
+driver.quit();
+
