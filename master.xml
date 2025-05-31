@@ -3,13 +3,16 @@
 
 
 <suite name="mysuite">
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager" />
+	</listeners>
 	<test thread-count="5" name="mytest">
 		<parameter name="os" value="windows" />
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="testCases.TC001_AccountRegistrationTest" />
 			<class name="testCases.TC002_LoginTest" />
-	<!-- <class name="testCases.TC003_LoginDataDrivenTest" /> -->
+			<!-- <class name="testCases.TC003_LoginDataDrivenTest" /> -->
 		</classes>
 
 	</test>

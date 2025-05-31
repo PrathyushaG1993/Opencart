@@ -1,71 +1,26 @@
-2025-05-23 11:24:03 INFO  Utils:112 - [TestNG] Running:
-  G:\Eclipse 2024-09\Opencart\grouping.xml
-
-2025-05-23 11:24:11 INFO  TC001_AccountRegistrationTest:15 - **** Started TC001_AccountRegistrationTest ****
-2025-05-23 11:24:11 INFO  TC001_AccountRegistrationTest:18 - clicked on MyAccountlink 
-2025-05-23 11:24:11 INFO  TC001_AccountRegistrationTest:21 - clicked on Registration link
-2025-05-23 11:24:12 INFO  TC001_AccountRegistrationTest:26 - Providing customer details
-2025-05-23 11:24:14 INFO  TC001_AccountRegistrationTest:38 - Validating expected message
-2025-05-23 11:24:14 INFO  TC001_AccountRegistrationTest:53 - **** Finished the TC001_AccountRegistrationTest****
-2025-05-23 11:29:06 INFO  Utils:112 - [TestNG] Running:
+2025-05-30 20:34:41 INFO  Utils:112 - [TestNG] Running:
   G:\Eclipse 2024-09\Opencart\master.xml
 
-2025-05-23 11:29:11 INFO  TC001_AccountRegistrationTest:15 - **** Started TC001_AccountRegistrationTest ****
-2025-05-23 11:29:11 INFO  TC001_AccountRegistrationTest:18 - clicked on MyAccountlink 
-2025-05-23 11:29:11 INFO  TC001_AccountRegistrationTest:21 - clicked on Registration link
-2025-05-23 11:29:12 INFO  TC001_AccountRegistrationTest:26 - Providing customer details
-2025-05-23 11:29:14 INFO  TC001_AccountRegistrationTest:38 - Validating expected message
-2025-05-23 11:29:14 INFO  TC001_AccountRegistrationTest:53 - **** Finished the TC001_AccountRegistrationTest****
-2025-05-23 11:29:18 INFO  TC002_LoginTest:15 - **** Started TC002_LoginTest ****
-2025-05-23 11:29:19 INFO  TC002_LoginTest:22 - Entered the credential
-2025-05-23 11:29:19 INFO  TC002_LoginTest:28 - Verified the Account page
-2025-05-23 11:29:20 INFO  TC002_LoginTest:37 - *** Finished TC002_LoginTest ***
-2025-05-23 11:31:02 INFO  Utils:112 - [TestNG] Running:
+2025-05-30 20:34:48 INFO  TC001_AccountRegistrationTest:15 - **** Started TC001_AccountRegistrationTest ****
+2025-05-30 20:34:48 INFO  TC001_AccountRegistrationTest:18 - clicked on MyAccountlink 
+2025-05-30 20:34:49 INFO  TC001_AccountRegistrationTest:21 - clicked on Registration link
+2025-05-30 20:34:49 INFO  TC001_AccountRegistrationTest:26 - Providing customer details
+2025-05-30 20:34:51 INFO  TC001_AccountRegistrationTest:38 - Validating expected message
+2025-05-30 20:34:51 INFO  TC001_AccountRegistrationTest:53 - **** Finished the TC001_AccountRegistrationTest****
+2025-05-30 20:34:56 INFO  TC002_LoginTest:15 - **** Started TC002_LoginTest ****
+2025-05-30 20:34:57 INFO  TC002_LoginTest:22 - Entered the credential
+2025-05-30 20:34:57 INFO  TC002_LoginTest:28 - Verified the Account page
+2025-05-30 20:34:58 INFO  TC002_LoginTest:37 - *** Finished TC002_LoginTest ***
+2025-05-30 20:54:02 INFO  Utils:112 - [TestNG] Running:
   G:\Eclipse 2024-09\Opencart\master.xml
 
-2025-05-23 11:31:06 INFO  TC001_AccountRegistrationTest:15 - **** Started TC001_AccountRegistrationTest ****
-2025-05-23 11:31:06 INFO  TC001_AccountRegistrationTest:18 - clicked on MyAccountlink 
-2025-05-23 11:31:06 INFO  TC001_AccountRegistrationTest:21 - clicked on Registration link
-2025-05-23 11:31:07 INFO  TC001_AccountRegistrationTest:26 - Providing customer details
-2025-05-23 11:31:09 INFO  TC001_AccountRegistrationTest:38 - Validating expected message
-2025-05-23 11:31:09 INFO  TC001_AccountRegistrationTest:53 - **** Finished the TC001_AccountRegistrationTest****
-2025-05-23 11:31:13 INFO  TC002_LoginTest:15 - **** Started TC002_LoginTest ****
-2025-05-23 11:31:14 INFO  TC002_LoginTest:22 - Entered the credential
-2025-05-23 11:31:14 INFO  TC002_LoginTest:28 - Verified the Account page
-2025-05-23 11:31:15 INFO  TC002_LoginTest:37 - *** Finished TC002_LoginTest ***
-2025-05-23 11:51:54 INFO  Utils:112 - [TestNG] Running:
-  G:\Eclipse 2024-09\Opencart\grouping.xml
-
-2025-05-23 11:51:59 INFO  TC001_AccountRegistrationTest:15 - **** Started TC001_AccountRegistrationTest ****
-2025-05-23 11:51:59 INFO  TC001_AccountRegistrationTest:18 - clicked on MyAccountlink 
-2025-05-23 11:51:59 INFO  TC001_AccountRegistrationTest:21 - clicked on Registration link
-2025-05-23 11:52:00 INFO  TC001_AccountRegistrationTest:26 - Providing customer details
-2025-05-23 11:52:02 INFO  TC001_AccountRegistrationTest:38 - Validating expected message
-2025-05-23 11:52:02 INFO  TC001_AccountRegistrationTest:53 - **** Finished the TC001_AccountRegistrationTest****
-2025-05-23 11:52:45 INFO  Utils:112 - [TestNG] Running:
-  G:\Eclipse 2024-09\Opencart\master.xml
-
-2025-05-23 11:52:51 INFO  TC003_LoginDataDrivenTest:15 - **** Started TC003_LoginDataDrivenTest ****
-2025-05-23 11:52:52 INFO  TC003_LoginDataDrivenTest:22 - Entered the credentials
-2025-05-23 11:52:54 INFO  TC003_LoginDataDrivenTest:30 - Verifying the credentials list
-2025-05-23 11:52:54 INFO  TC003_LoginDataDrivenTest:52 - **** Finished TC003_LoginDataDrivenTest ****
-2025-05-23 11:52:54 INFO  TC003_LoginDataDrivenTest:15 - **** Started TC003_LoginDataDrivenTest ****
-2025-05-23 11:52:55 INFO  TC003_LoginDataDrivenTest:22 - Entered the credentials
-2025-05-23 11:52:56 INFO  TC003_LoginDataDrivenTest:30 - Verifying the credentials list
-2025-05-23 11:52:57 INFO  TC003_LoginDataDrivenTest:52 - **** Finished TC003_LoginDataDrivenTest ****
-2025-05-23 11:52:57 INFO  TC003_LoginDataDrivenTest:15 - **** Started TC003_LoginDataDrivenTest ****
-2025-05-23 11:52:58 INFO  TC003_LoginDataDrivenTest:22 - Entered the credentials
-2025-05-23 11:53:00 INFO  TC003_LoginDataDrivenTest:30 - Verifying the credentials list
-2025-05-23 11:53:00 INFO  TC003_LoginDataDrivenTest:52 - **** Finished TC003_LoginDataDrivenTest ****
-2025-05-23 11:53:00 INFO  TC003_LoginDataDrivenTest:15 - **** Started TC003_LoginDataDrivenTest ****
-2025-05-23 11:53:01 INFO  TC003_LoginDataDrivenTest:22 - Entered the credentials
-2025-05-23 11:53:12 INFO  TC003_LoginDataDrivenTest:30 - Verifying the credentials list
-2025-05-23 11:53:12 INFO  TC003_LoginDataDrivenTest:52 - **** Finished TC003_LoginDataDrivenTest ****
-2025-05-23 11:53:12 INFO  TC003_LoginDataDrivenTest:15 - **** Started TC003_LoginDataDrivenTest ****
-2025-05-23 11:53:12 INFO  TC003_LoginDataDrivenTest:22 - Entered the credentials
-2025-05-23 11:53:14 INFO  TC003_LoginDataDrivenTest:30 - Verifying the credentials list
-2025-05-23 11:53:14 INFO  TC003_LoginDataDrivenTest:52 - **** Finished TC003_LoginDataDrivenTest ****
-2025-05-23 11:53:14 INFO  TC003_LoginDataDrivenTest:15 - **** Started TC003_LoginDataDrivenTest ****
-2025-05-23 11:53:15 INFO  TC003_LoginDataDrivenTest:22 - Entered the credentials
-2025-05-23 11:53:26 INFO  TC003_LoginDataDrivenTest:30 - Verifying the credentials list
-2025-05-23 11:53:26 INFO  TC003_LoginDataDrivenTest:52 - **** Finished TC003_LoginDataDrivenTest ****
+2025-05-30 20:54:08 INFO  TC001_AccountRegistrationTest:15 - **** Started TC001_AccountRegistrationTest ****
+2025-05-30 20:54:08 INFO  TC001_AccountRegistrationTest:18 - clicked on MyAccountlink 
+2025-05-30 20:54:09 INFO  TC001_AccountRegistrationTest:21 - clicked on Registration link
+2025-05-30 20:54:10 INFO  TC001_AccountRegistrationTest:26 - Providing customer details
+2025-05-30 20:54:12 INFO  TC001_AccountRegistrationTest:38 - Validating expected message
+2025-05-30 20:54:12 INFO  TC001_AccountRegistrationTest:53 - **** Finished the TC001_AccountRegistrationTest****
+2025-05-30 20:54:17 INFO  TC002_LoginTest:15 - **** Started TC002_LoginTest ****
+2025-05-30 20:54:18 INFO  TC002_LoginTest:22 - Entered the credential
+2025-05-30 20:54:20 INFO  TC002_LoginTest:28 - Verified the Account page
+2025-05-30 20:54:20 INFO  TC002_LoginTest:37 - *** Finished TC002_LoginTest ***

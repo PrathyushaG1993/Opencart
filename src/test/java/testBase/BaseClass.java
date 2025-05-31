@@ -22,7 +22,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 public class BaseClass {
-	public WebDriver driver;
+	public static WebDriver driver;
 	public Logger logger;
 	public Properties p;
 
